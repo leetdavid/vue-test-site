@@ -1,0 +1,17 @@
+.negative {
+  background: #444;
+  
+}
+
+.negative h1 {
+  color: #FFF;
+}
+
+.black {
+  color: #000;
+}
+
+.spaced {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
